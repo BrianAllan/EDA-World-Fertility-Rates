@@ -2,13 +2,14 @@
 
 ### Project Description
 
+Course: “Introduction to Data Analysis” offered by Udacity as part of their Data Analyst Nanodegree Program.
 
-    • Course: “Introduction to Data Analysis” offered by Udacity as part of their Data Analyst Nanodegree Program.
-    • Data:  Datasets from Gapminder with global country statistics.
-    • Project Tasks:
-        ◦ Choose a data source and pose questions to investigate.
-        ◦ Use a Jupyter notebook to wrangle and analyze the data, documenting the investigation.
-        ◦ Communicate the results with summary statistics and plots.
+Data:  Datasets from Gapminder with global country statistics.  
+
+Project Tasks:
+- Choose a data source and pose questions to investigate.
+- Use a Jupyter notebook to wrangle and analyze the data, documenting the investigation.
+- Communicate the results with summary statistics and plots.
 
 ### Files Used
 
