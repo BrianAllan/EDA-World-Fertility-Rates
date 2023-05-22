@@ -2,14 +2,15 @@
 
 ### Project Description
 
-Course: “Introduction to Data Analysis” offered by Udacity as part of their Data Analyst Nanodegree Program.
+_Course_: **“Introduction to Data Analysis”** offered by Udacity as part of their **Data Analyst Nanodegree** Program.
 
-Data:  Datasets from Gapminder with global country statistics.  
+_Data_:  Various datasets downloaded from Gapminder with global country statistics.  
 
-Project Tasks:
+_Project Tasks_:
+
 - Choose a data source and pose questions to investigate.
-- Use a Jupyter notebook to wrangle and analyze the data, documenting the investigation.
-- Communicate the results with summary statistics and plots.
+- Use a [Jupyter notebook](https://brianallan.github.io/EDA-World-Fertility-Rates/) to wrangle and analyze the data, documenting the investigation.
+- Analyze the data with summary statistics and plots, and communicate the results.
 
 ### Files Used
 
@@ -29,4 +30,4 @@ primary_school_completion_percent_of_girls.csv
 
 ### Tools Used
 
-Python with pandas and matplotlib in a Jupyter notebook.
+`Python` with `pandas` and `matplotlib` in a Jupyter notebook.
